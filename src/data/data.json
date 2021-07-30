@@ -1,0 +1,3666 @@
+[
+  {
+    "team": "Air Force",
+    "nickname": "Falcons",
+    "athletic_link": "https://en.wikipedia.org/wiki/Air_Force_Falcons_football",
+    "city": "Colorado Springs",
+    "state": "Colorado",
+    "enrollment": "4,237",
+    "conference": "Mountain West",
+    "old_conferences": "WAC",
+    "first_played": "1955",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Air_Force_Falcons_logo.svg/125px-Air_Force_Falcons_logo.svg.png",
+    "location": [
+      {
+        "latitude": 38.8339578,
+        "longitude": -104.8253485,
+        "formattedAddress": "Colorado Springs, El Paso County, Colorado, United States",
+        "country": "United States",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Akron",
+    "nickname": "Zips",
+    "athletic_link": "https://en.wikipedia.org/wiki/Akron_Zips_football",
+    "city": "Akron",
+    "state": "Ohio",
+    "enrollment": "19,200",
+    "conference": "MAC",
+    "old_conferences": "OAC, MCC, OVC",
+    "first_played": "1891",
+    "joined_fbs": "1987",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Akron_Zips_logo.svg/200px-Akron_Zips_logo.svg.png",
+    "location": [
+      {
+        "latitude": 41.083064,
+        "longitude": -81.518485,
+        "formattedAddress": "Akron, Summit County, Ohio, United States",
+        "country": "United States",
+        "city": "Akron",
+        "state": "Ohio",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Alabama",
+    "nickname": "Crimson Tide",
+    "athletic_link": "https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football",
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "enrollment": "38,500",
+    "conference": "SEC",
+    "old_conferences": "SIAA, SoCon",
+    "first_played": "1892",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alabama_Crimson_Tide_logo.svg/150px-Alabama_Crimson_Tide_logo.svg.png",
+    "location": [
+      {
+        "latitude": 33.2095614,
+        "longitude": -87.5675258,
+        "formattedAddress": "Tuscaloosa, Tuscaloosa County, Alabama, United States",
+        "country": "United States",
+        "city": "Tuscaloosa",
+        "state": "Alabama",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Appalachian State",
+    "nickname": "Mountaineers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Appalachian_State_Mountaineers_football",
+    "city": "Boone",
+    "state": "North Carolina",
+    "enrollment": "19,100",
+    "conference": "Sun Belt",
+    "old_conferences": "NSC, SoCon",
+    "first_played": "1928",
+    "joined_fbs": "2014[n 1]",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Appalachian_State_Mountaineers_logo.svg/150px-Appalachian_State_Mountaineers_logo.svg.png",
+    "location": [
+      {
+        "latitude": 36.216795,
+        "longitude": -81.6745517,
+        "formattedAddress": "Boone, Watauga County, North Carolina, United States",
+        "country": "United States",
+        "city": "Boone",
+        "state": "North Carolina",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Arizona",
+    "nickname": "Wildcats",
+    "athletic_link": "https://en.wikipedia.org/wiki/Arizona_Wildcats_football",
+    "city": "Tucson",
+    "state": "Arizona",
+    "enrollment": "45,200",
+    "conference": "Pac-12",
+    "old_conferences": "BIAA, WAC",
+    "first_played": "1899",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Arizona_Wildcats_logo.svg/150px-Arizona_Wildcats_logo.svg.png",
+    "location": [
+      {
+        "latitude": 32.2228765,
+        "longitude": -110.9748477,
+        "formattedAddress": "Tucson, Pima County, Arizona, United States",
+        "country": "United States",
+        "city": "Tucson",
+        "state": "Arizona",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Arizona State",
+    "nickname": "Sun Devils",
+    "athletic_link": "https://en.wikipedia.org/wiki/Arizona_State_Sun_Devils_football",
+    "city": "Tempe",
+    "state": "Arizona",
+    "enrollment": "51,800",
+    "conference": "Pac-12",
+    "old_conferences": "BIAA, WAC",
+    "first_played": "1896",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Arizona_State_Athletics_wordmark.svg/250px-Arizona_State_Athletics_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 33.4255056,
+        "longitude": -111.9400091,
+        "formattedAddress": "Tempe, Maricopa County, Arizona, United States",
+        "country": "United States",
+        "city": "Tempe",
+        "state": "Arizona",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Arkansas",
+    "nickname": "Razorbacks",
+    "athletic_link": "https://en.wikipedia.org/wiki/Arkansas_Razorbacks_football",
+    "city": "Fayetteville",
+    "state": "Arkansas",
+    "enrollment": "27,800",
+    "conference": "SEC",
+    "old_conferences": "SWC",
+    "first_played": "1894",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Arkansas_Razorbacks_logo.svg/200px-Arkansas_Razorbacks_logo.svg.png",
+    "location": [
+      {
+        "latitude": 36.0625843,
+        "longitude": -94.1574328,
+        "formattedAddress": "Fayetteville, Washington County, Arkansas, United States",
+        "country": "United States",
+        "city": "Fayetteville",
+        "state": "Arkansas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Arkansas State",
+    "nickname": "Red Wolves",
+    "athletic_link": "https://en.wikipedia.org/wiki/Arkansas_State_Red_Wolves_football",
+    "city": "Jonesboro",
+    "state": "Arkansas",
+    "enrollment": "22,000",
+    "conference": "Sun Belt",
+    "old_conferences": "Arkansas Intercollegiate Conference, Southland, Big West",
+    "first_played": "1911",
+    "joined_fbs": "1992",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Arkansas_State_Red_Wolves_wordmark.svg/200px-Arkansas_State_Red_Wolves_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 35.8428646,
+        "longitude": -90.7034522,
+        "formattedAddress": "Jonesboro, Craighead County, Arkansas, United States",
+        "country": "United States",
+        "city": "Jonesboro",
+        "state": "Arkansas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Army",
+    "nickname": "Black Knights",
+    "athletic_link": "https://en.wikipedia.org/wiki/Army_Black_Knights_football",
+    "city": "West Point",
+    "state": "New York",
+    "enrollment": "4,300",
+    "conference": "Independent",
+    "old_conferences": "C-USA",
+    "first_played": "1890",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Army_West_Point_logo.svg/175px-Army_West_Point_logo.svg.png",
+    "location": []
+  },
+  {
+    "team": "Auburn",
+    "nickname": "Tigers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Auburn_Tigers_football",
+    "city": "Auburn",
+    "state": "Alabama",
+    "enrollment": "30,400",
+    "conference": "SEC",
+    "old_conferences": "SIAA, SoCon",
+    "first_played": "1892",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Auburn_Tigers_logo.svg/150px-Auburn_Tigers_logo.svg.png",
+    "location": [
+      {
+        "latitude": 32.6098566,
+        "longitude": -85.4807825,
+        "formattedAddress": "Auburn, Lee County, Alabama, United States",
+        "country": "United States",
+        "city": "Auburn",
+        "state": "Alabama",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 32.541478,
+        "longitude": -85.53464650637494,
+        "formattedAddress": "Auburn, Lee County, Alabama, United States",
+        "country": "United States",
+        "city": "Auburn",
+        "state": "Alabama",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 32.562842,
+        "longitude": -85.515516,
+        "formattedAddress": "Auburn, Lee County, Alabama, 36830-8122, United States",
+        "country": "United States",
+        "city": "Auburn",
+        "state": "Alabama",
+        "zipcode": "36830-8122",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 32.682684,
+        "longitude": -85.516667,
+        "formattedAddress": "Auburn, Lee County, Alabama, 36832, United States",
+        "country": "United States",
+        "city": "Auburn",
+        "state": "Alabama",
+        "zipcode": "36832",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 32.639151,
+        "longitude": -85.456626,
+        "formattedAddress": "Auburn, Lee County, Alabama, 36801-5436, United States",
+        "country": "United States",
+        "city": "Auburn",
+        "state": "Alabama",
+        "zipcode": "36801-5436",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Ball State",
+    "nickname": "Cardinals",
+    "athletic_link": "https://en.wikipedia.org/wiki/Ball_State_Cardinals_football",
+    "city": "Muncie",
+    "state": "Indiana",
+    "enrollment": "22,500",
+    "conference": "MAC",
+    "old_conferences": "IIC, ICC",
+    "first_played": "1924",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ball_State_Athletics_wordmark.png/200px-Ball_State_Athletics_wordmark.png",
+    "location": [
+      {
+        "latitude": 40.1936892,
+        "longitude": -85.3865271,
+        "formattedAddress": "Muncie, Delaware County, Indiana, United States",
+        "country": "United States",
+        "city": "Muncie",
+        "state": "Indiana",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Baylor",
+    "nickname": "Bears",
+    "athletic_link": "https://en.wikipedia.org/wiki/Baylor_Bears_football",
+    "city": "Waco",
+    "state": "Texas",
+    "enrollment": "17,200",
+    "conference": "Big 12",
+    "old_conferences": "TIAA, SWC",
+    "first_played": "1899",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Baylor_Athletics_logo.svg/125px-Baylor_Athletics_logo.svg.png",
+    "location": [
+      {
+        "latitude": 31.549333,
+        "longitude": -97.1466695,
+        "formattedAddress": "Waco, McLennan County, Texas, United States",
+        "country": "United States",
+        "city": "Waco",
+        "state": "Texas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Boise State",
+    "nickname": "Broncos",
+    "athletic_link": "https://en.wikipedia.org/wiki/Boise_State_Broncos_football",
+    "city": "Boise",
+    "state": "Idaho",
+    "enrollment": "25,500",
+    "conference": "Mountain West",
+    "old_conferences": "ICAC, Big Sky, Big West, WAC",
+    "first_played": "1933[n 2]",
+    "joined_fbs": "1996",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Boise_State_%22B%22_logo.svg/150px-Boise_State_%22B%22_logo.svg.png",
+    "location": [
+      {
+        "latitude": 43.6166163,
+        "longitude": -116.200886,
+        "formattedAddress": "Boise, Ada County, Idaho, United States",
+        "country": "United States",
+        "city": "Boise",
+        "state": "Idaho",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Boston College",
+    "nickname": "Eagles",
+    "athletic_link": "https://en.wikipedia.org/wiki/Boston_College_Eagles_football",
+    "city": "Chestnut Hill",
+    "state": "Massachusetts",
+    "enrollment": "14,700",
+    "conference": "ACC",
+    "old_conferences": "Big East",
+    "first_played": "1893",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Boston_College_Eagles_wordmark.png/250px-Boston_College_Eagles_wordmark.png",
+    "location": [
+      {
+        "latitude": 42.3306529,
+        "longitude": -71.1661647,
+        "formattedAddress": "Chestnut Hill, Newton, Middlesex County, Massachusetts, 02467, United States",
+        "country": "United States",
+        "city": "Newton",
+        "state": "Massachusetts",
+        "zipcode": "02467",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Bowling Green",
+    "nickname": "Falcons",
+    "athletic_link": "https://en.wikipedia.org/wiki/Bowling_Green_Falcons_football",
+    "city": "Bowling Green",
+    "state": "Ohio",
+    "enrollment": "23,000",
+    "conference": "MAC",
+    "old_conferences": "Northwest Ohio Intercollegiate Athletic Association, OAC",
+    "first_played": "1919",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bowling_Green_Falcons_wordmark.svg/250px-Bowling_Green_Falcons_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 41.3747744,
+        "longitude": -83.6513229,
+        "formattedAddress": "Bowling Green, Wood County, Ohio, United States",
+        "country": "United States",
+        "city": "Bowling Green",
+        "state": "Ohio",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Buffalo",
+    "nickname": "Bulls",
+    "athletic_link": "https://en.wikipedia.org/wiki/Buffalo_Bulls_football",
+    "city": "Buffalo",
+    "state": "New York",
+    "enrollment": "31,500",
+    "conference": "MAC",
+    "old_conferences": "New York State Conference",
+    "first_played": "1894",
+    "joined_fbs": "1999",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Buffalo_Bulls_logo.svg/150px-Buffalo_Bulls_logo.svg.png",
+    "location": [
+      {
+        "latitude": 42.8867166,
+        "longitude": -78.8783922,
+        "formattedAddress": "Buffalo, Erie County, New York, United States",
+        "country": "United States",
+        "city": "Buffalo",
+        "state": "New York",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 42.9383918,
+        "longitude": -78.6847515,
+        "formattedAddress": "Bowmansville, Lancaster, Erie County, New York, 14026, United States",
+        "country": "United States",
+        "city": "Bowmansville",
+        "state": "New York",
+        "zipcode": "14026",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "BYU",
+    "nickname": "Cougars",
+    "athletic_link": "https://en.wikipedia.org/wiki/BYU_Cougars_football",
+    "city": "Provo",
+    "state": "Utah",
+    "enrollment": "33,600",
+    "conference": "Independent",
+    "old_conferences": "Rocky Mountain, Mountain States, WAC, MW",
+    "first_played": "1922",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/BYU_Cougars_logo.svg/200px-BYU_Cougars_logo.svg.png",
+    "location": [
+      {
+        "latitude": 40.2338438,
+        "longitude": -111.6585337,
+        "formattedAddress": "Provo, Utah County, Utah, United States",
+        "country": "United States",
+        "city": "Provo",
+        "state": "Utah",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "California",
+    "nickname": "Golden Bears",
+    "athletic_link": "https://en.wikipedia.org/wiki/California_Golden_Bears_football",
+    "city": "Berkeley",
+    "state": "California",
+    "enrollment": "42,500",
+    "conference": "Pac-12",
+    "old_conferences": "PCC",
+    "first_played": "1882",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/California_Golden_Bears_logo.svg/125px-California_Golden_Bears_logo.svg.png",
+    "location": [
+      {
+        "latitude": 37.8708393,
+        "longitude": -122.272863,
+        "formattedAddress": "Berkeley, Alameda County, California, United States",
+        "country": "United States",
+        "city": "Berkeley",
+        "state": "California",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Central Michigan",
+    "nickname": "Chippewas",
+    "athletic_link": "https://en.wikipedia.org/wiki/Central_Michigan_Chippewas_football",
+    "city": "Mount Pleasant",
+    "state": "Michigan",
+    "enrollment": "21,700",
+    "conference": "MAC",
+    "old_conferences": "MCC, IIAC",
+    "first_played": "1896",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Central_Michigan_Chippewas_logo.svg/150px-Central_Michigan_Chippewas_logo.svg.png",
+    "location": [
+      {
+        "latitude": 43.597646,
+        "longitude": -84.7668495,
+        "formattedAddress": "Mount Pleasant, Isabella County, Michigan, United States",
+        "country": "United States",
+        "city": "Mount Pleasant",
+        "state": "Michigan",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Charlotte",
+    "nickname": "49ers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Charlotte_49ers_football",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "enrollment": "29,700",
+    "conference": "C-USA",
+    "old_conferences": "Sun Belt, C-USA, A-10",
+    "first_played": "2013",
+    "joined_fbs": "2015",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Charlotte_49ers_logo.svg/115px-Charlotte_49ers_logo.svg.png",
+    "location": [
+      {
+        "latitude": 35.2272086,
+        "longitude": -80.8430827,
+        "formattedAddress": "Charlotte, Mecklenburg County, North Carolina, United States",
+        "country": "United States",
+        "city": "Charlotte",
+        "state": "North Carolina",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Cincinnati",
+    "nickname": "Bearcats",
+    "athletic_link": "https://en.wikipedia.org/wiki/Cincinnati_Bearcats_football",
+    "city": "Cincinnati",
+    "state": "Ohio",
+    "enrollment": "46,000",
+    "conference": "American",
+    "old_conferences": "OAC, Buckeye Intercollegiate Athletic Association, MAC, MVC, C-USA, Big East",
+    "first_played": "1885",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Cincinnati_University_Bearcats_textlogo.svg/250px-Cincinnati_University_Bearcats_textlogo.svg.png",
+    "location": [
+      {
+        "latitude": 39.1014537,
+        "longitude": -84.5124602,
+        "formattedAddress": "Cincinnati, Hamilton County, Ohio, United States",
+        "country": "United States",
+        "city": "Cincinnati",
+        "state": "Ohio",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Clemson",
+    "nickname": "Tigers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Clemson_Tigers_football",
+    "city": "Clemson",
+    "state": "South Carolina",
+    "enrollment": "25,000",
+    "conference": "ACC",
+    "old_conferences": "SIAA, SAIAA, SoCon",
+    "first_played": "1896",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Clemson_Tigers_logo.svg/150px-Clemson_Tigers_logo.svg.png",
+    "location": [
+      {
+        "latitude": 34.6850749,
+        "longitude": -82.8364111,
+        "formattedAddress": "Clemson, Pickens County, South Carolina, 29631, United States",
+        "country": "United States",
+        "city": "Clemson",
+        "state": "South Carolina",
+        "zipcode": "29631",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Coastal Carolina",
+    "nickname": "Chanticleers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Coastal_Carolina_Chanticleers_football",
+    "city": "Conway",
+    "state": "South Carolina",
+    "enrollment": "10,600",
+    "conference": "Sun Belt",
+    "old_conferences": "Big South",
+    "first_played": "2003",
+    "joined_fbs": "2017",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coastal_Carolina_Chanticleers_wordmark.svg/250px-Coastal_Carolina_Chanticleers_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 33.8360035,
+        "longitude": -79.0478143,
+        "formattedAddress": "Conway, Horry County, South Carolina, United States",
+        "country": "United States",
+        "city": "Conway",
+        "state": "South Carolina",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Colorado",
+    "nickname": "Buffaloes",
+    "athletic_link": "https://en.wikipedia.org/wiki/Colorado_Buffaloes_football",
+    "city": "Boulder",
+    "state": "Colorado",
+    "enrollment": "33,200",
+    "conference": "Pac-12",
+    "old_conferences": "Colorado Football Association, Rocky Mountain, Mountain States, Big Eight, Big 12",
+    "first_played": "1890",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Colorado_Buffaloes_wordmark.svg/150px-Colorado_Buffaloes_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 40.0149856,
+        "longitude": -105.270545,
+        "formattedAddress": "Boulder, Boulder County, Colorado, United States",
+        "country": "United States",
+        "city": "Boulder",
+        "state": "Colorado",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Colorado State",
+    "nickname": "Rams",
+    "athletic_link": "https://en.wikipedia.org/wiki/Colorado_State_Rams_football",
+    "city": "Fort Collins",
+    "state": "Colorado",
+    "enrollment": "33,800",
+    "conference": "Mountain West",
+    "old_conferences": "Colorado Football Association, Rocky Mountain, Mountain States, WAC",
+    "first_played": "1890",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Colorado_State_Rams_wordmark.svg/150px-Colorado_State_Rams_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 40.5508527,
+        "longitude": -105.0668085,
+        "formattedAddress": "Fort Collins, Larimer County, Colorado, United States",
+        "country": "United States",
+        "city": "Fort Collins",
+        "state": "Colorado",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Duke",
+    "nickname": "Blue Devils",
+    "athletic_link": "https://en.wikipedia.org/wiki/Duke_Blue_Devils_football",
+    "city": "Durham",
+    "state": "North Carolina",
+    "enrollment": "15,900",
+    "conference": "ACC",
+    "old_conferences": "SoCon",
+    "first_played": "1888",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Duke_Athletics_logo.svg/125px-Duke_Athletics_logo.svg.png",
+    "location": [
+      {
+        "latitude": 35.996653,
+        "longitude": -78.9018053,
+        "formattedAddress": "Durham, Durham County, North Carolina, United States",
+        "country": "United States",
+        "city": "Durham",
+        "state": "North Carolina",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "East Carolina",
+    "nickname": "Pirates",
+    "athletic_link": "https://en.wikipedia.org/wiki/East_Carolina_Pirates_football",
+    "city": "Greenville",
+    "state": "North Carolina",
+    "enrollment": "29,100",
+    "conference": "American",
+    "old_conferences": "NSC, Carolinas, SoCon, C-USA",
+    "first_played": "1932",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/East_Carolina_Pirates_wordmark.svg/150px-East_Carolina_Pirates_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 35.613224,
+        "longitude": -77.3724593,
+        "formattedAddress": "Greenville, Pitt County, North Carolina, United States",
+        "country": "United States",
+        "city": "Greenville",
+        "state": "North Carolina",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 35.2455293,
+        "longitude": -80.8420414,
+        "formattedAddress": "Greenville, Biddleville, Charlotte, Mecklenburg County, North Carolina, United States",
+        "country": "United States",
+        "city": "Charlotte",
+        "state": "North Carolina",
+        "countryCode": "US",
+        "neighbourhood": "Greenville",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Eastern Michigan",
+    "nickname": "Eagles",
+    "athletic_link": "https://en.wikipedia.org/wiki/Eastern_Michigan_Eagles_football",
+    "city": "Ypsilanti",
+    "state": "Michigan",
+    "enrollment": "20,300",
+    "conference": "MAC",
+    "old_conferences": "MIAA, MCC, IIAC, PAC",
+    "first_played": "1891",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Eastern_Michigan_Eagles_logo.svg/100px-Eastern_Michigan_Eagles_logo.svg.png",
+    "location": [
+      {
+        "latitude": 42.2410562,
+        "longitude": -83.613055,
+        "formattedAddress": "Ypsilanti, Washtenaw County, Michigan, 48197, United States",
+        "country": "United States",
+        "city": "Ypsilanti",
+        "state": "Michigan",
+        "zipcode": "48197",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "FIU",
+    "nickname": "Panthers",
+    "athletic_link": "https://en.wikipedia.org/wiki/FIU_Panthers_football",
+    "city": "Miami",
+    "state": "Florida",
+    "enrollment": "56,800",
+    "conference": "C-USA",
+    "old_conferences": "Sun Belt",
+    "first_played": "2002",
+    "joined_fbs": "2006",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Florida_International_University_FIU_logo.svg/150px-Florida_International_University_FIU_logo.svg.png",
+    "location": [
+      {
+        "latitude": 25.7741728,
+        "longitude": -80.19362,
+        "formattedAddress": "Miami, Miami-Dade County, Florida, United States",
+        "country": "United States",
+        "city": "Miami",
+        "state": "Florida",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Florida",
+    "nickname": "Gators",
+    "athletic_link": "https://en.wikipedia.org/wiki/Florida_Gators_football",
+    "city": "Gainesville",
+    "state": "Florida",
+    "enrollment": "56,100",
+    "conference": "SEC",
+    "old_conferences": "SIAA, SoCon",
+    "first_played": "1906",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Florida_Gators_football_logo.svg/175px-Florida_Gators_football_logo.svg.png",
+    "location": [
+      {
+        "latitude": 29.6519684,
+        "longitude": -82.3249846,
+        "formattedAddress": "Gainesville, Alachua County, Florida, United States",
+        "country": "United States",
+        "city": "Gainesville",
+        "state": "Florida",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Florida Atlantic",
+    "nickname": "Owls",
+    "athletic_link": "https://en.wikipedia.org/wiki/Florida_Atlantic_Owls_football",
+    "city": "Boca Raton",
+    "state": "Florida",
+    "enrollment": "30,800",
+    "conference": "C-USA",
+    "old_conferences": "Sun Belt",
+    "first_played": "2001",
+    "joined_fbs": "2006",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Florida_Atlantic_Athletics_wordmark.svg/200px-Florida_Atlantic_Athletics_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 26.3586885,
+        "longitude": -80.0830984,
+        "formattedAddress": "Boca Raton, Palm Beach County, Florida, United States",
+        "country": "United States",
+        "city": "Boca Raton",
+        "state": "Florida",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Florida State",
+    "nickname": "Seminoles",
+    "athletic_link": "https://en.wikipedia.org/wiki/Florida_State_Seminoles_football",
+    "city": "Tallahassee",
+    "state": "Florida",
+    "enrollment": "41,900",
+    "conference": "ACC",
+    "old_conferences": "Dixie",
+    "first_played": "1947",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Florida_State_Seminoles_alternate_logo.svg/150px-Florida_State_Seminoles_alternate_logo.svg.png",
+    "location": [
+      {
+        "latitude": 30.4380832,
+        "longitude": -84.2809332,
+        "formattedAddress": "Tallahassee, Leon County, Florida, United States",
+        "country": "United States",
+        "city": "Tallahassee",
+        "state": "Florida",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Fresno State",
+    "nickname": "Bulldogs",
+    "athletic_link": "https://en.wikipedia.org/wiki/Fresno_State_Bulldogs_football",
+    "city": "Fresno",
+    "state": "California",
+    "enrollment": "25,000",
+    "conference": "Mountain West",
+    "old_conferences": "California Coast Conference, NCAC, CCAA, Big West, WAC",
+    "first_played": "1921",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Fresno_State_wordmark.png/250px-Fresno_State_wordmark.png",
+    "location": [
+      {
+        "latitude": 36.7295295,
+        "longitude": -119.70886126075588,
+        "formattedAddress": "Fresno, Fresno County, California, United States",
+        "country": "United States",
+        "city": "Fresno",
+        "state": "California",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 36.7394421,
+        "longitude": -119.7848307,
+        "formattedAddress": "Fresno, Fresno County, California, United States",
+        "country": "United States",
+        "city": "Fresno",
+        "state": "California",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Georgia",
+    "nickname": "Bulldogs",
+    "athletic_link": "https://en.wikipedia.org/wiki/Georgia_Bulldogs_football",
+    "city": "Athens",
+    "state": "Georgia",
+    "enrollment": "38,200",
+    "conference": "SEC",
+    "old_conferences": "SIAA, SoCon",
+    "first_played": "1892",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Georgia_Athletics_logo.svg/150px-Georgia_Athletics_logo.svg.png",
+    "location": [
+      {
+        "latitude": 33.9597677,
+        "longitude": -83.376398,
+        "formattedAddress": "Athens-Clarke County Unified Government, Athens-Clarke County, Georgia, United States",
+        "country": "United States",
+        "city": "Athens-Clarke County Unified Government",
+        "state": "Georgia",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Georgia Southern",
+    "nickname": "Eagles",
+    "athletic_link": "https://en.wikipedia.org/wiki/Georgia_Southern_Eagles_football",
+    "city": "Statesboro",
+    "state": "Georgia",
+    "enrollment": "26,400",
+    "conference": "Sun Belt",
+    "old_conferences": "SoCon",
+    "first_played": "1924",
+    "joined_fbs": "2014",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Georgia_Southern_Eagles_wordmark.svg/250px-Georgia_Southern_Eagles_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 32.4490141,
+        "longitude": -81.7832912,
+        "formattedAddress": "Statesboro, Bulloch County, Georgia, United States",
+        "country": "United States",
+        "city": "Statesboro",
+        "state": "Georgia",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Georgia State",
+    "nickname": "Panthers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Georgia_State_Panthers_football",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "enrollment": "52,800",
+    "conference": "Sun Belt",
+    "old_conferences": "CAA",
+    "first_played": "2010",
+    "joined_fbs": "2013",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Georgia_State_Athletics_wordmark.svg/200px-Georgia_State_Athletics_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 33.7489924,
+        "longitude": -84.3902644,
+        "formattedAddress": "Atlanta, Fulton County, Georgia, United States",
+        "country": "United States",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Georgia Tech",
+    "nickname": "Yellow Jackets",
+    "athletic_link": "https://en.wikipedia.org/wiki/Georgia_Tech_Yellow_Jackets_football",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "enrollment": "32,700",
+    "conference": "ACC",
+    "old_conferences": "SIAA, SoCon, SEC",
+    "first_played": "1892",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg/150px-Georgia_Tech_Yellow_Jackets_logo.svg.png",
+    "location": [
+      {
+        "latitude": 33.7489924,
+        "longitude": -84.3902644,
+        "formattedAddress": "Atlanta, Fulton County, Georgia, United States",
+        "country": "United States",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Hawaii",
+    "nickname": "Rainbow Warriors",
+    "athletic_link": "https://en.wikipedia.org/wiki/Hawaii_Rainbow_Warriors_football",
+    "city": "Honolulu",
+    "state": "Hawai'i",
+    "enrollment": "17,700",
+    "conference": "Mountain West",
+    "old_conferences": "WAC",
+    "first_played": "1909",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hawaii_Warriors_logo.svg/225px-Hawaii_Warriors_logo.svg.png",
+    "location": [
+      {
+        "latitude": 21.304547,
+        "longitude": -157.855676,
+        "formattedAddress": "Honolulu, Honolulu County, Hawaii, United States",
+        "country": "United States",
+        "city": "Honolulu",
+        "state": "Hawaii",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Houston",
+    "nickname": "Cougars",
+    "athletic_link": "https://en.wikipedia.org/wiki/Houston_Cougars_football",
+    "city": "Houston",
+    "state": "Texas",
+    "enrollment": "42,700",
+    "conference": "American",
+    "old_conferences": "Lone Star, Gulf Coast, MVC, SWC, C-USA[n 3]",
+    "first_played": "1946",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Houston_Cougars_primary_logo.svg/150px-Houston_Cougars_primary_logo.svg.png",
+    "location": [
+      {
+        "latitude": 29.7589382,
+        "longitude": -95.3676974,
+        "formattedAddress": "Houston, Harris County, Texas, United States",
+        "country": "United States",
+        "city": "Houston",
+        "state": "Texas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 37.3261588,
+        "longitude": -91.955988,
+        "formattedAddress": "Houston, Texas County, Missouri, 65483, United States",
+        "country": "United States",
+        "city": "Houston",
+        "state": "Missouri",
+        "zipcode": "65483",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Illinois",
+    "nickname": "Fighting Illini",
+    "athletic_link": "https://en.wikipedia.org/wiki/Illinois_Fighting_Illini_football",
+    "city": "Urbana",
+    "state": "Illinois",
+    "enrollment": "51,200",
+    "conference": "Big Ten",
+    "old_conferences": "Illinois Intercollegiate Football League",
+    "first_played": "1890",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Illinois_Fighting_Illini_logo.svg/125px-Illinois_Fighting_Illini_logo.svg.png",
+    "location": [
+      {
+        "latitude": 40.1117174,
+        "longitude": -88.207301,
+        "formattedAddress": "Urbana, Champaign County, Illinois, United States",
+        "country": "United States",
+        "city": "Urbana",
+        "state": "Illinois",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Indiana",
+    "nickname": "Hoosiers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Indiana_Hoosiers_football",
+    "city": "Bloomington",
+    "state": "Indiana",
+    "enrollment": "43,700",
+    "conference": "Big Ten",
+    "old_conferences": "IIAA",
+    "first_played": "1887",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Indiana_Hoosiers_logo.svg/125px-Indiana_Hoosiers_logo.svg.png",
+    "location": [
+      {
+        "latitude": 39.1670396,
+        "longitude": -86.5342881,
+        "formattedAddress": "Bloomington, Monroe County, Indiana, United States",
+        "country": "United States",
+        "city": "Bloomington",
+        "state": "Indiana",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Iowa",
+    "nickname": "Hawkeyes",
+    "athletic_link": "https://en.wikipedia.org/wiki/Iowa_Hawkeyes_football",
+    "city": "Iowa City",
+    "state": "Iowa",
+    "enrollment": "33,000",
+    "conference": "Big Ten",
+    "old_conferences": "WIUFA, MVC",
+    "first_played": "1889",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Iowa_Hawkeyes_wordmark.svg/250px-Iowa_Hawkeyes_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 41.6612561,
+        "longitude": -91.5299106,
+        "formattedAddress": "Iowa City, Johnson County, Iowa, United States",
+        "country": "United States",
+        "city": "Iowa City",
+        "state": "Iowa",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Iowa State",
+    "nickname": "Cyclones",
+    "athletic_link": "https://en.wikipedia.org/wiki/Iowa_State_Cyclones_football",
+    "city": "Ames",
+    "state": "Iowa",
+    "enrollment": "33,400",
+    "conference": "Big 12",
+    "old_conferences": "MVC, Big 8",
+    "first_played": "1892",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Iowa_State_Cyclones_logo.svg/150px-Iowa_State_Cyclones_logo.svg.png",
+    "location": [
+      {
+        "latitude": 42.0267703,
+        "longitude": -93.6170554,
+        "formattedAddress": "Ames, Story County, Iowa, United States",
+        "country": "United States",
+        "city": "Ames",
+        "state": "Iowa",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Kansas",
+    "nickname": "Jayhawks",
+    "athletic_link": "https://en.wikipedia.org/wiki/Kansas_Jayhawks_football",
+    "city": "Lawrence",
+    "state": "Kansas",
+    "enrollment": "27,700",
+    "conference": "Big 12",
+    "old_conferences": "KCAC, WIUFA, MVC, Big 8",
+    "first_played": "1890",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kansas_Jayhawks_wordmark.svg/250px-Kansas_Jayhawks_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 38.9719384,
+        "longitude": -95.2359496,
+        "formattedAddress": "Lawrence, Douglas County, Kansas, 66044, United States",
+        "country": "United States",
+        "city": "Lawrence",
+        "state": "Kansas",
+        "zipcode": "66044",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Kansas State",
+    "nickname": "Wildcats",
+    "athletic_link": "https://en.wikipedia.org/wiki/Kansas_State_Wildcats_football",
+    "city": "Manhattan",
+    "state": "Kansas",
+    "enrollment": "21,700",
+    "conference": "Big 12",
+    "old_conferences": "MVC, Big 8",
+    "first_played": "1896",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kansas_State_Wildcats_wordmark.svg/250px-Kansas_State_Wildcats_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 39.1836082,
+        "longitude": -96.5716694,
+        "formattedAddress": "Manhattan, Riley County, Kansas, United States",
+        "country": "United States",
+        "city": "Manhattan",
+        "state": "Kansas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Kent State",
+    "nickname": "Golden Flashes",
+    "athletic_link": "https://en.wikipedia.org/wiki/Kent_State_Golden_Flashes_football",
+    "city": "Kent",
+    "state": "Ohio",
+    "enrollment": "39,300",
+    "conference": "MAC",
+    "old_conferences": "OAC",
+    "first_played": "1920",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Kent_State_football.svg/200px-Kent_State_football.svg.png",
+    "location": [
+      {
+        "latitude": 41.1536674,
+        "longitude": -81.357886,
+        "formattedAddress": "Kent, Portage County, Ohio, United States",
+        "country": "United States",
+        "city": "Kent",
+        "state": "Ohio",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Kentucky",
+    "nickname": "Wildcats",
+    "athletic_link": "https://en.wikipedia.org/wiki/Kentucky_Wildcats_football",
+    "city": "Lexington",
+    "state": "Kentucky",
+    "enrollment": "29,200",
+    "conference": "SEC",
+    "old_conferences": "SIAA, SoCon",
+    "first_played": "1881",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kentucky_Wildcats_logo.svg/150px-Kentucky_Wildcats_logo.svg.png",
+    "location": [
+      {
+        "latitude": 38.0464066,
+        "longitude": -84.4970393,
+        "formattedAddress": "Lexington, Fayette County, Kentucky, United States",
+        "country": "United States",
+        "city": "Lexington",
+        "state": "Kentucky",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Liberty",
+    "nickname": "Flames",
+    "athletic_link": "https://en.wikipedia.org/wiki/Liberty_Flames_football",
+    "city": "Lynchburg",
+    "state": "Virginia",
+    "enrollment": "15,000",
+    "conference": "Independent",
+    "old_conferences": "Big South",
+    "first_played": "1973",
+    "joined_fbs": "2018",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Liberty_Flames_wordmark.svg/150px-Liberty_Flames_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 37.4137536,
+        "longitude": -79.1422464,
+        "formattedAddress": "Lynchburg, Lynchburg (city), Virginia, United States",
+        "country": "United States",
+        "city": "Lynchburg",
+        "state": "Virginia",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Louisiana",
+    "nickname": "Ragin' Cajuns",
+    "athletic_link": "https://en.wikipedia.org/wiki/Louisiana_Ragin%27_Cajuns_football",
+    "city": "Lafayette",
+    "state": "Louisiana",
+    "enrollment": "19,200",
+    "conference": "Sun Belt",
+    "old_conferences": "Louisiana Intercollegiate Athletic Association, Louisiana Intercollegiate Conference, Gulf States Conference, SIAA, Southland, Big West",
+    "first_played": "1902",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Louisiana_Ragin%27_Cajuns_wordmark.svg/250px-Louisiana_Ragin%27_Cajuns_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 30.2240897,
+        "longitude": -92.0198427,
+        "formattedAddress": "Lafayette, Lafayette Parish, Louisiana, United States",
+        "country": "United States",
+        "city": "Lafayette",
+        "state": "Louisiana",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Louisiana–Monroe",
+    "nickname": "Warhawks",
+    "athletic_link": "https://en.wikipedia.org/wiki/Louisiana%E2%80%93Monroe_Warhawks_football",
+    "city": "Monroe",
+    "state": "Louisiana",
+    "enrollment": "8,800",
+    "conference": "Sun Belt",
+    "old_conferences": "Gulf States Conference, Southland, Independent",
+    "first_played": "1951",
+    "joined_fbs": "1994",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Louisiana-Monroe_Warhawks_wordmark.svg/250px-Louisiana-Monroe_Warhawks_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 32.5093109,
+        "longitude": -92.1193012,
+        "formattedAddress": "Monroe, Ouachita Parish, Louisiana, United States",
+        "country": "United States",
+        "city": "Monroe",
+        "state": "Louisiana",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 32.8151348,
+        "longitude": -92.2056923,
+        "formattedAddress": "Monroe, Union Parish, Louisiana, United States",
+        "country": "United States",
+        "city": "Monroe",
+        "state": "Louisiana",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Louisiana Tech",
+    "nickname": "Bulldogs",
+    "athletic_link": "https://en.wikipedia.org/wiki/Louisiana_Tech_Bulldogs_football",
+    "city": "Ruston",
+    "state": "Louisiana",
+    "enrollment": "12,400",
+    "conference": "C-USA",
+    "old_conferences": "Louisiana Intercollegiate Athletic Association, Louisiana Intercollegiate Conference, Gulf States Conference, SIAA, Southland, Big West, WAC",
+    "first_played": "1901",
+    "joined_fbs": "1989",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Louisiana_Tech_Athletics_wordmark.svg/250px-Louisiana_Tech_Athletics_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 32.5232053,
+        "longitude": -92.637927,
+        "formattedAddress": "Ruston, Lincoln Parish, Louisiana, 71270, United States",
+        "country": "United States",
+        "city": "Ruston",
+        "state": "Louisiana",
+        "zipcode": "71270",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Louisville",
+    "nickname": "Cardinals",
+    "athletic_link": "https://en.wikipedia.org/wiki/Louisville_Cardinals_football",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "enrollment": "22,600",
+    "conference": "ACC",
+    "old_conferences": "KIAC, SIAA, KIAC, OVC, MVC, C-USA, Big East, American",
+    "first_played": "1910",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Louisville_Cardinals_wordmark.svg/250px-Louisville_Cardinals_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 38.2542376,
+        "longitude": -85.759407,
+        "formattedAddress": "Louisville, Jefferson County, Kentucky, United States",
+        "country": "United States",
+        "city": "Louisville",
+        "state": "Kentucky",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "LSU",
+    "nickname": "Tigers",
+    "athletic_link": "https://en.wikipedia.org/wiki/LSU_Tigers_football",
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "enrollment": "30,800",
+    "conference": "SEC",
+    "old_conferences": "SIAA, SoCon",
+    "first_played": "1893",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LSU_Athletics_logo.svg/200px-LSU_Athletics_logo.svg.png",
+    "location": [
+      {
+        "latitude": 30.4459596,
+        "longitude": -91.18738,
+        "formattedAddress": "Baton Rouge, East Baton Rouge Parish, Louisiana, United States",
+        "country": "United States",
+        "city": "Baton Rouge",
+        "state": "Louisiana",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Marshall",
+    "nickname": "Thundering Herd",
+    "athletic_link": "https://en.wikipedia.org/wiki/Marshall_Thundering_Herd_football",
+    "city": "Huntington",
+    "state": "West Virginia",
+    "enrollment": "13,200",
+    "conference": "C-USA",
+    "old_conferences": "WVIAC, Buckeye Conference, OVC, MAC, SoCon",
+    "first_played": "1895",
+    "joined_fbs": "1997[n 1]",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marshall_Thundering_Herd_logo.svg/150px-Marshall_Thundering_Herd_logo.svg.png",
+    "location": [
+      {
+        "latitude": 38.4192496,
+        "longitude": -82.445154,
+        "formattedAddress": "Huntington, Cabell County, West Virginia, United States",
+        "country": "United States",
+        "city": "Huntington",
+        "state": "West Virginia",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Maryland",
+    "nickname": "Terrapins",
+    "athletic_link": "https://en.wikipedia.org/wiki/Maryland_Terrapins_football",
+    "city": "College Park",
+    "state": "Maryland",
+    "enrollment": "41,200",
+    "conference": "Big Ten",
+    "old_conferences": "MIFA, SAIAA, SoCon, ACC",
+    "first_played": "1888",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maryland_Terrapins_logo.svg/120px-Maryland_Terrapins_logo.svg.png",
+    "location": [
+      {
+        "latitude": 38.980666,
+        "longitude": -76.9369189,
+        "formattedAddress": "College Park, Prince George's County, Maryland, United States",
+        "country": "United States",
+        "city": "College Park",
+        "state": "Maryland",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Memphis",
+    "nickname": "Tigers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Memphis_Tigers_football",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "enrollment": "21,500",
+    "conference": "American",
+    "old_conferences": "Mississippi Valley Conference, SIAA, MVC, C-USA[n 3]",
+    "first_played": "1912",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Memphis_Tigers_wordmark.svg/250px-Memphis_Tigers_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 35.1490215,
+        "longitude": -90.0516285,
+        "formattedAddress": "Memphis, Shelby County, Tennessee, United States",
+        "country": "United States",
+        "city": "Memphis",
+        "state": "Tennessee",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Miami (FL)",
+    "nickname": "Hurricanes",
+    "athletic_link": "https://en.wikipedia.org/wiki/Miami_Hurricanes_football",
+    "city": "Coral Gables",
+    "state": "Florida",
+    "enrollment": "17,300",
+    "conference": "ACC",
+    "old_conferences": "SIAA, Big East",
+    "first_played": "1926[2]",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Miami_Hurricanes_logo.svg/150px-Miami_Hurricanes_logo.svg.png",
+    "location": [
+      {
+        "latitude": 25.72149,
+        "longitude": -80.2683838,
+        "formattedAddress": "Coral Gables, Miami-Dade County, Florida, United States",
+        "country": "United States",
+        "state": "Florida",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Miami (OH)",
+    "nickname": "RedHawks",
+    "athletic_link": "https://en.wikipedia.org/wiki/Miami_RedHawks_football",
+    "city": "Oxford",
+    "state": "Ohio",
+    "enrollment": "24,300",
+    "conference": "MAC",
+    "old_conferences": "OAC, Buckeye Conference",
+    "first_played": "1888",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Miami_Redhawks_logo.svg/150px-Miami_Redhawks_logo.svg.png",
+    "location": [
+      {
+        "latitude": 39.5103048,
+        "longitude": -84.7420519,
+        "formattedAddress": "Oxford, Oxford Township, Butler County, Ohio, United States",
+        "country": "United States",
+        "city": "Oxford",
+        "state": "Ohio",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Michigan",
+    "nickname": "Wolverines",
+    "athletic_link": "https://en.wikipedia.org/wiki/Michigan_Wolverines_football",
+    "city": "Ann Arbor",
+    "state": "Michigan",
+    "enrollment": "46,000",
+    "conference": "Big Ten",
+    "old_conferences": "",
+    "first_played": "1879",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/150px-Michigan_Wolverines_logo.svg.png",
+    "location": [
+      {
+        "latitude": 42.2681569,
+        "longitude": -83.7312291,
+        "formattedAddress": "Ann Arbor, Washtenaw County, Michigan, United States",
+        "country": "United States",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Michigan State",
+    "nickname": "Spartans",
+    "athletic_link": "https://en.wikipedia.org/wiki/Michigan_State_Spartans_football",
+    "city": "East Lansing",
+    "state": "Michigan",
+    "enrollment": "50,300",
+    "conference": "Big Ten",
+    "old_conferences": "MIAA",
+    "first_played": "1885",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Michigan_State_Spartans_script.svg/120px-Michigan_State_Spartans_script.svg.png",
+    "location": [
+      {
+        "latitude": 42.7320307,
+        "longitude": -84.4721678,
+        "formattedAddress": "East Lansing, Ingham County, Michigan, United States",
+        "country": "United States",
+        "city": "East Lansing",
+        "state": "Michigan",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Middle Tennessee",
+    "nickname": "Blue Raiders",
+    "athletic_link": "https://en.wikipedia.org/wiki/Middle_Tennessee_Blue_Raiders_football",
+    "city": "Murfreesboro",
+    "state": "Tennessee",
+    "enrollment": "21,900",
+    "conference": "C-USA",
+    "old_conferences": "VSAC, SIAA, OVC, Sun Belt",
+    "first_played": "1911",
+    "joined_fbs": "1999",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Middle_Tennessee_MT_Logomark.svg/185px-Middle_Tennessee_MT_Logomark.svg.png",
+    "location": [
+      {
+        "latitude": 35.8460396,
+        "longitude": -86.3921096,
+        "formattedAddress": "Murfreesboro, Rutherford County, Tennessee, United States",
+        "country": "United States",
+        "city": "Murfreesboro",
+        "state": "Tennessee",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Minnesota",
+    "nickname": "Golden Gophers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Minnesota_Golden_Gophers_football",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "enrollment": "47,800",
+    "conference": "Big Ten",
+    "old_conferences": "",
+    "first_played": "1882",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Minnesota_Golden_Gophers_logo.svg/150px-Minnesota_Golden_Gophers_logo.svg.png",
+    "location": [
+      {
+        "latitude": 44.9772995,
+        "longitude": -93.2654692,
+        "formattedAddress": "Minneapolis, Hennepin County, Minnesota, United States",
+        "country": "United States",
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Mississippi State",
+    "nickname": "Bulldogs",
+    "athletic_link": "https://en.wikipedia.org/wiki/Mississippi_State_Bulldogs_football",
+    "city": "Starkville",
+    "state": "Mississippi",
+    "enrollment": "22,200",
+    "conference": "SEC",
+    "old_conferences": "SIAA, SoCon",
+    "first_played": "1895",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mississippi_State_Bulldogs_logo.svg/150px-Mississippi_State_Bulldogs_logo.svg.png",
+    "location": [
+      {
+        "latitude": 33.4503998,
+        "longitude": -88.8183872,
+        "formattedAddress": "Starkville, Oktibbeha County, Mississippi, United States",
+        "country": "United States",
+        "city": "Starkville",
+        "state": "Mississippi",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Missouri",
+    "nickname": "Tigers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Missouri_Tigers_football",
+    "city": "Columbia",
+    "state": "Missouri",
+    "enrollment": "30,000",
+    "conference": "SEC",
+    "old_conferences": "WIUFA, Big 8, Big 12",
+    "first_played": "1890",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mizzou_Athletics_wordmark.svg/250px-Mizzou_Athletics_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 38.951883,
+        "longitude": -92.3337366,
+        "formattedAddress": "Columbia, Boone County, Missouri, United States",
+        "country": "United States",
+        "city": "Columbia",
+        "state": "Missouri",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Navy",
+    "nickname": "Midshipmen",
+    "athletic_link": "https://en.wikipedia.org/wiki/Navy_Midshipmen_football",
+    "city": "Annapolis",
+    "state": "Maryland",
+    "enrollment": "4,600",
+    "conference": "American",
+    "old_conferences": "Independent",
+    "first_played": "1879",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Navy_Athletics_logo.svg/150px-Navy_Athletics_logo.svg.png",
+    "location": [
+      {
+        "latitude": 38.9786401,
+        "longitude": -76.492786,
+        "formattedAddress": "Annapolis, Anne Arundel County, Maryland, United States",
+        "country": "United States",
+        "city": "Annapolis",
+        "state": "Maryland",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "NC State",
+    "nickname": "Wolfpack",
+    "athletic_link": "https://en.wikipedia.org/wiki/NC_State_Wolfpack_football",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "enrollment": "35,500",
+    "conference": "ACC",
+    "old_conferences": "SAIAA, SIAA, SoCon",
+    "first_played": "1892",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/North_Carolina_State_University_Athletic_logo.svg/125px-North_Carolina_State_University_Athletic_logo.svg.png",
+    "location": [
+      {
+        "latitude": 35.7803977,
+        "longitude": -78.6390989,
+        "formattedAddress": "Raleigh, Wake County, North Carolina, United States",
+        "country": "United States",
+        "city": "Raleigh",
+        "state": "North Carolina",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Nebraska",
+    "nickname": "Cornhuskers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Nebraska_Cornhuskers_football",
+    "city": "Lincoln",
+    "state": "Nebraska",
+    "enrollment": "25,800",
+    "conference": "Big Ten",
+    "old_conferences": "WIUFA, MVC, Big 8, Big 12",
+    "first_played": "1890",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nebraska_Cornhuskers_logo.svg/125px-Nebraska_Cornhuskers_logo.svg.png",
+    "location": [
+      {
+        "latitude": 40.8088861,
+        "longitude": -96.7077751,
+        "formattedAddress": "Lincoln, Lancaster County, Nebraska, United States",
+        "country": "United States",
+        "city": "Lincoln",
+        "state": "Nebraska",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Nevada",
+    "nickname": "Wolf Pack",
+    "athletic_link": "https://en.wikipedia.org/wiki/Nevada_Wolf_Pack_football",
+    "city": "Reno",
+    "state": "Nevada",
+    "enrollment": "21,600",
+    "conference": "Mountain West",
+    "old_conferences": "NCAC, Big Sky, Big West, WAC",
+    "first_played": "1896",
+    "joined_fbs": "1992",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nevada_Wolf_Pack_wordmark.svg/220px-Nevada_Wolf_Pack_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 39.5261206,
+        "longitude": -119.8126581,
+        "formattedAddress": "Reno, Washoe County, Nevada, United States",
+        "country": "United States",
+        "city": "Reno",
+        "state": "Nevada",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "New Mexico",
+    "nickname": "Lobos",
+    "athletic_link": "https://en.wikipedia.org/wiki/New_Mexico_Lobos_football",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "enrollment": "26,300",
+    "conference": "Mountain West",
+    "old_conferences": "BIAA, WAC",
+    "first_played": "1892",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/New_Mexico_Lobos_wordmark.svg/250px-New_Mexico_Lobos_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 35.0841034,
+        "longitude": -106.650985,
+        "formattedAddress": "Albuquerque, Bernalillo County, New Mexico, United States",
+        "country": "United States",
+        "city": "Albuquerque",
+        "state": "New Mexico",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "New Mexico State",
+    "nickname": "Aggies",
+    "athletic_link": "https://en.wikipedia.org/wiki/New_Mexico_State_Aggies_football",
+    "city": "Las Cruces",
+    "state": "New Mexico",
+    "enrollment": "21,900",
+    "conference": "Independent",
+    "old_conferences": "BIAA, MVC, Big West, Sun Belt, WAC",
+    "first_played": "1893",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/New_Mexico_State_Aggies_wordmark.svg/250px-New_Mexico_State_Aggies_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 32.3140354,
+        "longitude": -106.7798078,
+        "formattedAddress": "Las Cruces, Doña Ana County, New Mexico, United States",
+        "country": "United States",
+        "city": "Las Cruces",
+        "state": "New Mexico",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "North Carolina",
+    "nickname": "Tar Heels",
+    "athletic_link": "https://en.wikipedia.org/wiki/North_Carolina_Tar_Heels_football",
+    "city": "Chapel Hill",
+    "state": "North Carolina",
+    "enrollment": "29,800",
+    "conference": "ACC",
+    "old_conferences": "SAIAA, SIAA, SoCon",
+    "first_played": "1888",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/North_Carolina_Tar_Heels_logo.svg/150px-North_Carolina_Tar_Heels_logo.svg.png",
+    "location": [
+      {
+        "latitude": 35.9131542,
+        "longitude": -79.05578,
+        "formattedAddress": "Chapel Hill, Orange County, North Carolina, United States",
+        "country": "United States",
+        "city": "Chapel Hill",
+        "state": "North Carolina",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 35.9428828,
+        "longitude": -82.7087517,
+        "formattedAddress": "Chapel Hill, Madison County, North Carolina, United States",
+        "country": "United States",
+        "city": "Chapel Hill",
+        "state": "North Carolina",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "North Texas",
+    "nickname": "Mean Green",
+    "athletic_link": "https://en.wikipedia.org/wiki/North_Texas_Mean_Green_football",
+    "city": "Denton",
+    "state": "Texas",
+    "enrollment": "39,400",
+    "conference": "C-USA",
+    "old_conferences": "TIAA, Lone Star, Gulf Coast Conference, MVC, Southland, Big West, Sun Belt",
+    "first_played": "1913",
+    "joined_fbs": "1995",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/North_Texas_Stacked_Wordmark.png/200px-North_Texas_Stacked_Wordmark.png",
+    "location": [
+      {
+        "latitude": 33.2150386,
+        "longitude": -97.1330516,
+        "formattedAddress": "Denton, Denton County, Texas, United States",
+        "country": "United States",
+        "city": "Denton",
+        "state": "Texas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 32.2587418,
+        "longitude": -99.5395219,
+        "formattedAddress": "Denton, Callahan County, Texas, United States",
+        "country": "United States",
+        "city": "Denton",
+        "state": "Texas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Northern Illinois",
+    "nickname": "Huskies",
+    "athletic_link": "https://en.wikipedia.org/wiki/Northern_Illinois_Huskies_football",
+    "city": "DeKalb",
+    "state": "Illinois",
+    "enrollment": "20,000",
+    "conference": "MAC",
+    "old_conferences": "IIAC, Big West",
+    "first_played": "1899",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Northern_Illinois_Huskies_football_wordmark.svg/250px-Northern_Illinois_Huskies_football_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 41.9294736,
+        "longitude": -88.7503647,
+        "formattedAddress": "DeKalb, DeKalb County, Illinois, 60115, United States",
+        "country": "United States",
+        "city": "DeKalb",
+        "state": "Illinois",
+        "zipcode": "60115",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Northwestern",
+    "nickname": "Wildcats",
+    "athletic_link": "https://en.wikipedia.org/wiki/Northwestern_Wildcats_football",
+    "city": "Evanston",
+    "state": "Illinois",
+    "enrollment": "21,200",
+    "conference": "Big Ten",
+    "old_conferences": "",
+    "first_played": "1876",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Northwestern_Wildcats_logo.svg/100px-Northwestern_Wildcats_logo.svg.png",
+    "location": [
+      {
+        "latitude": 42.0447388,
+        "longitude": -87.6930459,
+        "formattedAddress": "Evanston, Evanston Township, Cook County, Illinois, United States",
+        "country": "United States",
+        "city": "Evanston",
+        "state": "Illinois",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Notre Dame",
+    "nickname": "Fighting Irish",
+    "athletic_link": "https://en.wikipedia.org/wiki/Notre_Dame_Fighting_Irish_football",
+    "city": "South Bend",
+    "state": "Indiana",
+    "enrollment": "12,300",
+    "conference": "Independent",
+    "old_conferences": "ACC",
+    "first_played": "1887",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Notre_Dame_Fighting_Irish_logo.svg/150px-Notre_Dame_Fighting_Irish_logo.svg.png",
+    "location": [
+      {
+        "latitude": 41.6833813,
+        "longitude": -86.2500066,
+        "formattedAddress": "South Bend, Saint Joseph County, Indiana, United States",
+        "country": "United States",
+        "city": "South Bend",
+        "state": "Indiana",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Ohio",
+    "nickname": "Bobcats",
+    "athletic_link": "https://en.wikipedia.org/wiki/Ohio_Bobcats_football",
+    "city": "Athens",
+    "state": "Ohio",
+    "enrollment": "34,900",
+    "conference": "MAC",
+    "old_conferences": "OAC, Buckeye Conference",
+    "first_played": "1894",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ohio_Bobcats_wordmark.svg/150px-Ohio_Bobcats_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 39.3289242,
+        "longitude": -82.1012479,
+        "formattedAddress": "Athens, Athens County, Ohio, 45701, United States",
+        "country": "United States",
+        "city": "Athens",
+        "state": "Ohio",
+        "zipcode": "45701",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Ohio State",
+    "nickname": "Buckeyes",
+    "athletic_link": "https://en.wikipedia.org/wiki/Ohio_State_Buckeyes_football",
+    "city": "Columbus",
+    "state": "Ohio",
+    "enrollment": "68,100",
+    "conference": "Big Ten",
+    "old_conferences": "OAC",
+    "first_played": "1889",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ohio_State_Buckeyes_logo.svg/175px-Ohio_State_Buckeyes_logo.svg.png",
+    "location": [
+      {
+        "latitude": 39.9622601,
+        "longitude": -83.0007065,
+        "formattedAddress": "Columbus, Franklin County, Ohio, United States",
+        "country": "United States",
+        "city": "Columbus",
+        "state": "Ohio",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Oklahoma",
+    "nickname": "Sooners",
+    "athletic_link": "https://en.wikipedia.org/wiki/Oklahoma_Sooners_football",
+    "city": "Norman",
+    "state": "Oklahoma",
+    "enrollment": "28,500",
+    "conference": "Big 12",
+    "old_conferences": "Oklahoma Intercollegiate Conference, SWC, MVC, Big 8",
+    "first_played": "1895",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Oklahoma_Sooners_logo.svg/120px-Oklahoma_Sooners_logo.svg.png",
+    "location": [
+      {
+        "latitude": 35.2225717,
+        "longitude": -97.4394816,
+        "formattedAddress": "Norman, Cleveland County, Oklahoma, United States",
+        "country": "United States",
+        "city": "Norman",
+        "state": "Oklahoma",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Oklahoma State",
+    "nickname": "Cowboys",
+    "athletic_link": "https://en.wikipedia.org/wiki/Oklahoma_State_Cowboys_football",
+    "city": "Stillwater",
+    "state": "Oklahoma",
+    "enrollment": "25,300",
+    "conference": "Big 12",
+    "old_conferences": "Oklahoma Intercollegiate Conference, SWC, MVC, Big 8",
+    "first_played": "1901",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Oklahoma_State_University_system_logo.svg/200px-Oklahoma_State_University_system_logo.svg.png",
+    "location": [
+      {
+        "latitude": 36.1156306,
+        "longitude": -97.0585717,
+        "formattedAddress": "Stillwater, Payne County, Oklahoma, United States",
+        "country": "United States",
+        "city": "Stillwater",
+        "state": "Oklahoma",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Old Dominion",
+    "nickname": "Monarchs",
+    "athletic_link": "https://en.wikipedia.org/wiki/Old_Dominion_Monarchs_football",
+    "city": "Norfolk",
+    "state": "Virginia",
+    "enrollment": "25,000",
+    "conference": "C-USA",
+    "old_conferences": "CAA",
+    "first_played": "2009",
+    "joined_fbs": "2014",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Old_Dominion_Athletics_wordmark.svg/250px-Old_Dominion_Athletics_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 36.8462923,
+        "longitude": -76.2929252,
+        "formattedAddress": "Norfolk, Virginia, United States",
+        "country": "United States",
+        "city": "Norfolk",
+        "state": "Virginia",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Ole Miss",
+    "nickname": "Rebels",
+    "athletic_link": "https://en.wikipedia.org/wiki/Ole_Miss_Rebels_football",
+    "city": "Oxford",
+    "state": "Mississippi",
+    "enrollment": "23,200",
+    "conference": "SEC",
+    "old_conferences": "SIAA, SoCon",
+    "first_played": "1890",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ole_Miss_Rebels_football_logo.svg/200px-Ole_Miss_Rebels_football_logo.svg.png",
+    "location": [
+      {
+        "latitude": 34.3663773,
+        "longitude": -89.5187664,
+        "formattedAddress": "Oxford, Lafayette County, Mississippi, United States",
+        "country": "United States",
+        "city": "Oxford",
+        "state": "Mississippi",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 31.267951,
+        "longitude": -90.8981584,
+        "formattedAddress": "Oxford, Amite County, Mississippi, United States",
+        "country": "United States",
+        "city": "Oxford",
+        "state": "Mississippi",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Oregon",
+    "nickname": "Ducks",
+    "athletic_link": "https://en.wikipedia.org/wiki/Oregon_Ducks_football",
+    "city": "Eugene",
+    "state": "Oregon",
+    "enrollment": "22,700",
+    "conference": "Pac-12",
+    "old_conferences": "PCC, Independent",
+    "first_played": "1894",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Oregon_Ducks_logo.svg/150px-Oregon_Ducks_logo.svg.png",
+    "location": [
+      {
+        "latitude": 44.0505054,
+        "longitude": -123.0950506,
+        "formattedAddress": "Eugene, Lane County, Oregon, United States",
+        "country": "United States",
+        "city": "Eugene",
+        "state": "Oregon",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Oregon State",
+    "nickname": "Beavers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Oregon_State_Beavers_football",
+    "city": "Corvallis",
+    "state": "Oregon",
+    "enrollment": "30,900",
+    "conference": "Pac-12",
+    "old_conferences": "PCC, Independent",
+    "first_played": "1893",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Oregon_State_Beavers_wordmark.svg/250px-Oregon_State_Beavers_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 44.5645659,
+        "longitude": -123.2620435,
+        "formattedAddress": "Corvallis, Benton County, Oregon, United States",
+        "country": "United States",
+        "city": "Corvallis",
+        "state": "Oregon",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Penn State",
+    "nickname": "Nittany Lions",
+    "athletic_link": "https://en.wikipedia.org/wiki/Penn_State_Nittany_Lions_football",
+    "city": "University Park",
+    "state": "Pennsylvania",
+    "enrollment": "46,600",
+    "conference": "Big Ten",
+    "old_conferences": "",
+    "first_played": "1881",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Penn_State_Athletics_wordmark.svg/250px-Penn_State_Athletics_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 40.8087493,
+        "longitude": -77.8585662,
+        "formattedAddress": "University Park, College Township, Centre County, Pennsylvania, 16802-2604, United States",
+        "country": "United States",
+        "state": "Pennsylvania",
+        "zipcode": "16802-2604",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Pittsburgh",
+    "nickname": "Panthers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Pittsburgh_Panthers_football",
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "enrollment": "28,600",
+    "conference": "ACC",
+    "old_conferences": "Big East",
+    "first_played": "1890",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Pitt_Panthers_wordmark.svg/200px-Pitt_Panthers_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 40.4416941,
+        "longitude": -79.9900861,
+        "formattedAddress": "Pittsburgh, Allegheny County, Pennsylvania, United States",
+        "country": "United States",
+        "city": "Pittsburgh",
+        "state": "Pennsylvania",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Purdue",
+    "nickname": "Boilermakers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Purdue_Boilermakers_football",
+    "city": "West Lafayette",
+    "state": "Indiana",
+    "enrollment": "43,400",
+    "conference": "Big Ten",
+    "old_conferences": "IIAA",
+    "first_played": "1887",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Purdue_Boilermakers_logo.svg/200px-Purdue_Boilermakers_logo.svg.png",
+    "location": [
+      {
+        "latitude": 40.4258686,
+        "longitude": -86.9080655,
+        "formattedAddress": "West Lafayette, Tippecanoe County, Indiana, United States",
+        "country": "United States",
+        "city": "West Lafayette",
+        "state": "Indiana",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Rice",
+    "nickname": "Owls",
+    "athletic_link": "https://en.wikipedia.org/wiki/Rice_Owls_football",
+    "city": "Houston",
+    "state": "Texas",
+    "enrollment": "7,100",
+    "conference": "C-USA",
+    "old_conferences": "TIAA, SWC, WAC",
+    "first_played": "1912",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rice_Owls_logo.svg/120px-Rice_Owls_logo.svg.png",
+    "location": [
+      {
+        "latitude": 29.7589382,
+        "longitude": -95.3676974,
+        "formattedAddress": "Houston, Harris County, Texas, United States",
+        "country": "United States",
+        "city": "Houston",
+        "state": "Texas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 37.3261588,
+        "longitude": -91.955988,
+        "formattedAddress": "Houston, Texas County, Missouri, 65483, United States",
+        "country": "United States",
+        "city": "Houston",
+        "state": "Missouri",
+        "zipcode": "65483",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Rutgers",
+    "nickname": "Scarlet Knights",
+    "athletic_link": "https://en.wikipedia.org/wiki/Rutgers_Scarlet_Knights_football",
+    "city": "Piscataway",
+    "state": "New Jersey",
+    "enrollment": "70,900",
+    "conference": "Big Ten",
+    "old_conferences": "Middle Atlantic, Big East, American",
+    "first_played": "1869",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rutgers_Scarlet_Knights_logo.svg/150px-Rutgers_Scarlet_Knights_logo.svg.png",
+    "location": [
+      {
+        "latitude": 40.5462553,
+        "longitude": -74.4660408,
+        "formattedAddress": "Piscataway Township, Middlesex County, New Jersey, United States",
+        "country": "United States",
+        "city": "Piscataway Township",
+        "state": "New Jersey",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "San Diego State",
+    "nickname": "Aztecs",
+    "athletic_link": "https://en.wikipedia.org/wiki/San_Diego_State_Aztecs_football",
+    "city": "San Diego",
+    "state": "California",
+    "enrollment": "34,900",
+    "conference": "Mountain West",
+    "old_conferences": "Southern California Junior College Conference, SCIAC, CCAA, Big West, WAC",
+    "first_played": "1921",
+    "joined_fbs": "1969",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/San_Diego_State_Aztecs_logo.svg/200px-San_Diego_State_Aztecs_logo.svg.png",
+    "location": [
+      {
+        "latitude": 32.7174202,
+        "longitude": -117.1627728,
+        "formattedAddress": "San Diego, San Diego County, California, United States",
+        "country": "United States",
+        "city": "San Diego",
+        "state": "California",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "San Jose State",
+    "nickname": "Spartans",
+    "athletic_link": "https://en.wikipedia.org/wiki/San_Jose_State_Spartans_football",
+    "city": "San Jose",
+    "state": "California",
+    "enrollment": "32,800",
+    "conference": "Mountain West",
+    "old_conferences": "California Coast Conference, NCAC, California Collegiate, Big West, WAC",
+    "first_played": "1892",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/San_Jose_State_interlocking_logo.svg/90px-San_Jose_State_interlocking_logo.svg.png",
+    "location": [
+      {
+        "latitude": 37.3361905,
+        "longitude": -121.890583,
+        "formattedAddress": "San Jose, Santa Clara County, California, United States",
+        "country": "United States",
+        "city": "San Jose",
+        "state": "California",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "SMU",
+    "nickname": "Mustangs",
+    "athletic_link": "https://en.wikipedia.org/wiki/SMU_Mustangs_football",
+    "city": "University Park",
+    "state": "Texas",
+    "enrollment": "11,800",
+    "conference": "American",
+    "old_conferences": "TIAA, SWC, WAC, C-USA[n 3]",
+    "first_played": "1915",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/SMU_Mustang_logo.svg/175px-SMU_Mustang_logo.svg.png",
+    "location": [
+      {
+        "latitude": 32.851034,
+        "longitude": -96.79257966216875,
+        "formattedAddress": "University Park, Dallas County, Texas, United States",
+        "country": "United States",
+        "city": "University Park",
+        "state": "Texas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 32.005024,
+        "longitude": -102.0998067,
+        "formattedAddress": "University Park, Midland, Midland County, Texas, 79701, United States",
+        "country": "United States",
+        "city": "Midland",
+        "state": "Texas",
+        "zipcode": "79701",
+        "countryCode": "US",
+        "neighbourhood": "University Park",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 26.3126549,
+        "longitude": -98.18361707139333,
+        "formattedAddress": "University Park, Edinburg, Hidalgo County, Texas, United States",
+        "country": "United States",
+        "city": "Edinburg",
+        "state": "Texas",
+        "countryCode": "US",
+        "neighbourhood": "University Park",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 30.629242,
+        "longitude": -97.6534218,
+        "formattedAddress": "University Park, Georgetown, Williamson County, Texas, 78626, United States",
+        "country": "United States",
+        "city": "Georgetown",
+        "state": "Texas",
+        "zipcode": "78626",
+        "countryCode": "US",
+        "neighbourhood": "University Park",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 29.7576177,
+        "longitude": -95.71851086986564,
+        "formattedAddress": "University Park, Harris County, Texas, United States",
+        "country": "United States",
+        "state": "Texas",
+        "countryCode": "US",
+        "neighbourhood": "University Park",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "South Alabama",
+    "nickname": "Jaguars",
+    "athletic_link": "https://en.wikipedia.org/wiki/South_Alabama_Jaguars_football",
+    "city": "Mobile",
+    "state": "Alabama",
+    "enrollment": "15,100",
+    "conference": "Sun Belt",
+    "old_conferences": "",
+    "first_played": "2009",
+    "joined_fbs": "2012",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/South_Alabama_Jaguars_wordmark.svg/250px-South_Alabama_Jaguars_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 30.6943566,
+        "longitude": -88.0430541,
+        "formattedAddress": "Mobile, Mobile County, Alabama, United States",
+        "country": "United States",
+        "city": "Mobile",
+        "state": "Alabama",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "South Carolina",
+    "nickname": "Gamecocks",
+    "athletic_link": "https://en.wikipedia.org/wiki/South_Carolina_Gamecocks_football",
+    "city": "Columbia",
+    "state": "South Carolina",
+    "enrollment": "50,100",
+    "conference": "SEC",
+    "old_conferences": "SIAA, SoCon, ACC",
+    "first_played": "1892",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/South_Carolina_Gamecocks_logo.svg/150px-South_Carolina_Gamecocks_logo.svg.png",
+    "location": [
+      {
+        "latitude": 34.0007493,
+        "longitude": -81.0343313,
+        "formattedAddress": "Columbia, Richland County, South Carolina, United States",
+        "country": "United States",
+        "city": "Columbia",
+        "state": "South Carolina",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "South Florida",
+    "nickname": "Bulls",
+    "athletic_link": "https://en.wikipedia.org/wiki/South_Florida_Bulls_football",
+    "city": "Tampa",
+    "state": "Florida",
+    "enrollment": "50,700",
+    "conference": "American",
+    "old_conferences": "C-USA, Big East",
+    "first_played": "1997",
+    "joined_fbs": "2001",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/South_Florida_Bulls_wordmark.svg/250px-South_Florida_Bulls_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 27.9477595,
+        "longitude": -82.458444,
+        "formattedAddress": "Tampa, Hillsborough County, Florida, United States",
+        "country": "United States",
+        "city": "Tampa",
+        "state": "Florida",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Southern Miss",
+    "nickname": "Golden Eagles",
+    "athletic_link": "https://en.wikipedia.org/wiki/Southern_Miss_Golden_Eagles_football",
+    "city": "Hattiesburg",
+    "state": "Mississippi",
+    "enrollment": "14,500",
+    "conference": "C-USA",
+    "old_conferences": "Gulf States Conference, SIAA",
+    "first_played": "1912",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Southern_Miss_Script_Logo.png/250px-Southern_Miss_Script_Logo.png",
+    "location": [
+      {
+        "latitude": 31.3271189,
+        "longitude": -89.2903392,
+        "formattedAddress": "Hattiesburg, Forrest County, Mississippi, United States",
+        "country": "United States",
+        "city": "Hattiesburg",
+        "state": "Mississippi",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Stanford",
+    "nickname": "Cardinal",
+    "athletic_link": "https://en.wikipedia.org/wiki/Stanford_Cardinal_football",
+    "city": "Stanford",
+    "state": "California",
+    "enrollment": "16,500",
+    "conference": "Pac-12",
+    "old_conferences": "PCC",
+    "first_played": "1891",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Stanford_Cardinal_logo.svg/100px-Stanford_Cardinal_logo.svg.png",
+    "location": [
+      {
+        "latitude": 37.427467,
+        "longitude": -122.1702445,
+        "formattedAddress": "Stanford, Santa Clara County, California, United States",
+        "country": "United States",
+        "city": "Stanford",
+        "state": "California",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Syracuse",
+    "nickname": "Orange",
+    "athletic_link": "https://en.wikipedia.org/wiki/Syracuse_Orange_football",
+    "city": "Syracuse",
+    "state": "New York",
+    "enrollment": "22,900",
+    "conference": "ACC",
+    "old_conferences": "Big East",
+    "first_played": "1889",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Syracuse_Orange_logo.svg/120px-Syracuse_Orange_logo.svg.png",
+    "location": [
+      {
+        "latitude": 43.0481221,
+        "longitude": -76.1474244,
+        "formattedAddress": "Syracuse, Onondaga County, New York, United States",
+        "country": "United States",
+        "city": "Syracuse",
+        "state": "New York",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "TCU",
+    "nickname": "Horned Frogs",
+    "athletic_link": "https://en.wikipedia.org/wiki/TCU_Horned_Frogs_football",
+    "city": "Fort Worth",
+    "state": "Texas",
+    "enrollment": "10,400",
+    "conference": "Big 12",
+    "old_conferences": "TIAA, SWC, WAC, C-USA, MW",
+    "first_played": "1896",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/TCU_Horned_Frogs_logo.svg/200px-TCU_Horned_Frogs_logo.svg.png",
+    "location": [
+      {
+        "latitude": 32.753177,
+        "longitude": -97.3327459,
+        "formattedAddress": "Fort Worth, Tarrant County, Texas, United States",
+        "country": "United States",
+        "city": "Fort Worth",
+        "state": "Texas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Temple",
+    "nickname": "Owls",
+    "athletic_link": "https://en.wikipedia.org/wiki/Temple_Owls_football",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "enrollment": "40,000",
+    "conference": "American",
+    "old_conferences": "Middle Atlantic, Big East, MAC, Big East",
+    "first_played": "1894",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Temple_T_logo.svg/120px-Temple_T_logo.svg.png",
+    "location": [
+      {
+        "latitude": 39.9527237,
+        "longitude": -75.1635262,
+        "formattedAddress": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "country": "United States",
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Tennessee",
+    "nickname": "Volunteers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Tennessee_Volunteers_football",
+    "city": "Knoxville",
+    "state": "Tennessee",
+    "enrollment": "28,900",
+    "conference": "SEC",
+    "old_conferences": "SIAA, SoCon",
+    "first_played": "1891",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tennessee_Volunteers_logo.svg/120px-Tennessee_Volunteers_logo.svg.png",
+    "location": [
+      {
+        "latitude": 35.9603948,
+        "longitude": -83.9210261,
+        "formattedAddress": "Knoxville, Knox County, Tennessee, United States",
+        "country": "United States",
+        "city": "Knoxville",
+        "state": "Tennessee",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Texas",
+    "nickname": "Longhorns",
+    "athletic_link": "https://en.wikipedia.org/wiki/Texas_Longhorns_football",
+    "city": "Austin",
+    "state": "Texas",
+    "enrollment": "51,800",
+    "conference": "Big 12",
+    "old_conferences": "SIAA, TIAA, SWC",
+    "first_played": "1893",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Texas_Longhorns_logo.svg/200px-Texas_Longhorns_logo.svg.png",
+    "location": [
+      {
+        "latitude": 30.2711286,
+        "longitude": -97.7436995,
+        "formattedAddress": "Austin, Travis County, Texas, United States",
+        "country": "United States",
+        "city": "Austin",
+        "state": "Texas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Texas A&M",
+    "nickname": "Aggies",
+    "athletic_link": "https://en.wikipedia.org/wiki/Texas_A%26M_Aggies_football",
+    "city": "College Station",
+    "state": "Texas",
+    "enrollment": "69,400",
+    "conference": "SEC",
+    "old_conferences": "SIAA, SWC, Big 12",
+    "first_played": "1894",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Texas_A%26M_University_logo.svg/150px-Texas_A%26M_University_logo.svg.png",
+    "location": [
+      {
+        "latitude": 30.5955289,
+        "longitude": -96.3071042,
+        "formattedAddress": "College Station, Brazos County, Texas, United States",
+        "country": "United States",
+        "city": "College Station",
+        "state": "Texas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Texas State",
+    "nickname": "Bobcats",
+    "athletic_link": "https://en.wikipedia.org/wiki/Texas_State_Bobcats_football",
+    "city": "San Marcos",
+    "state": "Texas",
+    "enrollment": "38,800",
+    "conference": "Sun Belt",
+    "old_conferences": "TIAA, Lone Star, Gulf Star, Southland, WAC",
+    "first_played": "1904",
+    "joined_fbs": "2012",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Texas_State_Athletics_wordmark.svg/175px-Texas_State_Athletics_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 29.8826436,
+        "longitude": -97.9405828,
+        "formattedAddress": "San Marcos, Hays County, Texas, United States",
+        "country": "United States",
+        "city": "San Marcos",
+        "state": "Texas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Texas Tech",
+    "nickname": "Red Raiders",
+    "athletic_link": "https://en.wikipedia.org/wiki/Texas_Tech_Red_Raiders_football",
+    "city": "Lubbock",
+    "state": "Texas",
+    "enrollment": "38,200",
+    "conference": "Big 12",
+    "old_conferences": "BIAA, SWC",
+    "first_played": "1925",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Texas_Tech_Athletics_logo.svg/100px-Texas_Tech_Athletics_logo.svg.png",
+    "location": [
+      {
+        "latitude": 33.5635206,
+        "longitude": -101.879336,
+        "formattedAddress": "Lubbock, Lubbock County, Texas, United States",
+        "country": "United States",
+        "city": "Lubbock",
+        "state": "Texas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Toledo",
+    "nickname": "Rockets",
+    "athletic_link": "https://en.wikipedia.org/wiki/Toledo_Rockets_football",
+    "city": "Toledo",
+    "state": "Ohio",
+    "enrollment": "23,100",
+    "conference": "MAC",
+    "old_conferences": "Northwestern Ohio Intercollegiate Athletic Association, OAC",
+    "first_played": "1917",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Toledo_Rockets_wordmark.svg/250px-Toledo_Rockets_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 41.6529143,
+        "longitude": -83.5378173,
+        "formattedAddress": "Toledo, Lucas County, Ohio, United States",
+        "country": "United States",
+        "city": "Toledo",
+        "state": "Ohio",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Troy",
+    "nickname": "Trojans",
+    "athletic_link": "https://en.wikipedia.org/wiki/Troy_Trojans_football",
+    "city": "Troy",
+    "state": "Alabama",
+    "enrollment": "18,100",
+    "conference": "Sun Belt",
+    "old_conferences": "Alabama Intercollegiate Conference, SIAA, Alabama Collegiate Conference, Mid-South Athletic Conference, Gulf South, Southland",
+    "first_played": "1909",
+    "joined_fbs": "2002",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TroyUniversityTrojans-logo.gif/200px-TroyUniversityTrojans-logo.gif",
+    "location": [
+      {
+        "latitude": 31.8087678,
+        "longitude": -85.969951,
+        "formattedAddress": "Troy, Pike County, Alabama, United States",
+        "country": "United States",
+        "city": "Troy",
+        "state": "Alabama",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Tulane",
+    "nickname": "Green Wave",
+    "athletic_link": "https://en.wikipedia.org/wiki/Tulane_Green_Wave_football",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "enrollment": "14,100",
+    "conference": "American",
+    "old_conferences": "SIAA, SoCon, SEC, C-USA",
+    "first_played": "1893",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tulane_Green_Wave_wordmark.svg/250px-Tulane_Green_Wave_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 29.9499323,
+        "longitude": -90.0701156,
+        "formattedAddress": "New Orleans, Orleans Parish, Louisiana, United States",
+        "country": "United States",
+        "city": "New Orleans",
+        "state": "Louisiana",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Tulsa",
+    "nickname": "Golden Hurricane",
+    "athletic_link": "https://en.wikipedia.org/wiki/Tulsa_Golden_Hurricane_football",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "enrollment": "3,297[3]",
+    "conference": "American",
+    "old_conferences": "Oklahoma Intercollegiate Conference, Big 4 Conference, MVC, WAC, C-USA",
+    "first_played": "1895",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Tulsa_Golden_Hurricane_logo.svg/200px-Tulsa_Golden_Hurricane_logo.svg.png",
+    "location": [
+      {
+        "latitude": 36.1556805,
+        "longitude": -95.9929113,
+        "formattedAddress": "Tulsa, Tulsa County, Oklahoma, United States",
+        "country": "United States",
+        "city": "Tulsa",
+        "state": "Oklahoma",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "UAB",
+    "nickname": "Blazers",
+    "athletic_link": "https://en.wikipedia.org/wiki/UAB_Blazers_football",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "enrollment": "21,900",
+    "conference": "C-USA",
+    "old_conferences": "",
+    "first_played": "1991",
+    "joined_fbs": "1999",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/UAB_Blazers_wordmark.png/250px-UAB_Blazers_wordmark.png",
+    "location": [
+      {
+        "latitude": 33.5206824,
+        "longitude": -86.8024326,
+        "formattedAddress": "Birmingham, Jefferson County, Alabama, United States",
+        "country": "United States",
+        "city": "Birmingham",
+        "state": "Alabama",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "UCF",
+    "nickname": "Knights",
+    "athletic_link": "https://en.wikipedia.org/wiki/UCF_Knights_football",
+    "city": "Orlando",
+    "state": "Florida",
+    "enrollment": "68,600",
+    "conference": "American",
+    "old_conferences": "MAC, C-USA",
+    "first_played": "1979",
+    "joined_fbs": "1996",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/UCF_Knights_logo.svg/150px-UCF_Knights_logo.svg.png",
+    "location": [
+      {
+        "latitude": 28.5421109,
+        "longitude": -81.3790304,
+        "formattedAddress": "Orlando, Orange County, Florida, United States",
+        "country": "United States",
+        "city": "Orlando",
+        "state": "Florida",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "UCLA",
+    "nickname": "Bruins",
+    "athletic_link": "https://en.wikipedia.org/wiki/UCLA_Bruins_football",
+    "city": "Los Angeles",
+    "state": "California",
+    "enrollment": "45,400",
+    "conference": "Pac-12",
+    "old_conferences": "SCIAC, PCC",
+    "first_played": "1919",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/UCLA_Bruins_script.svg/200px-UCLA_Bruins_script.svg.png",
+    "location": [
+      {
+        "latitude": 34.0536909,
+        "longitude": -118.242766,
+        "formattedAddress": "Los Angeles, California, United States",
+        "country": "United States",
+        "city": "Los Angeles",
+        "state": "California",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "UConn",
+    "nickname": "Huskies",
+    "athletic_link": "https://en.wikipedia.org/wiki/UConn_Huskies_football",
+    "city": "Storrs",
+    "state": "Connecticut",
+    "enrollment": "32,200",
+    "conference": "Independent",
+    "old_conferences": "Yankee, A-10, Big East, American",
+    "first_played": "1896",
+    "joined_fbs": "2000",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Connecticut_Huskies_wordmark.svg/250px-Connecticut_Huskies_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 41.8084314,
+        "longitude": -72.2495231,
+        "formattedAddress": "Storrs, Mansfield, Tolland County, Connecticut, 06268, United States",
+        "country": "United States",
+        "city": "Mansfield",
+        "state": "Connecticut",
+        "zipcode": "06268",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "UMass",
+    "nickname": "Minutemen",
+    "athletic_link": "https://en.wikipedia.org/wiki/UMass_Minutemen_football",
+    "city": "Amherst",
+    "state": "Massachusetts",
+    "enrollment": "30,600",
+    "conference": "Independent",
+    "old_conferences": "Yankee, A-10, CAA, MAC",
+    "first_played": "1879",
+    "joined_fbs": "2012",
+    "image_url": "https:undefined",
+    "location": [
+      {
+        "latitude": 42.3685658,
+        "longitude": -72.505714,
+        "formattedAddress": "Amherst, Hampshire County, Massachusetts, United States",
+        "country": "United States",
+        "city": "Amherst",
+        "state": "Massachusetts",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "UNLV",
+    "nickname": "Rebels",
+    "athletic_link": "https://en.wikipedia.org/wiki/UNLV_Rebels_football",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "enrollment": "30,500",
+    "conference": "Mountain West",
+    "old_conferences": "Big West, WAC",
+    "first_played": "1968",
+    "joined_fbs": "1978",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/UNLV_Rebels_wordmark.svg/200px-UNLV_Rebels_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 36.1672559,
+        "longitude": -115.148516,
+        "formattedAddress": "Las Vegas, Clark County, Nevada, United States",
+        "country": "United States",
+        "city": "Las Vegas",
+        "state": "Nevada",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 36.046711,
+        "longitude": -115.2245569,
+        "formattedAddress": "Enterprise, Clark County, Nevada, United States",
+        "country": "United States",
+        "city": "Enterprise",
+        "state": "Nevada",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "USC",
+    "nickname": "Trojans",
+    "athletic_link": "https://en.wikipedia.org/wiki/USC_Trojans_football",
+    "city": "Los Angeles",
+    "state": "California",
+    "enrollment": "45,700",
+    "conference": "Pac-12",
+    "old_conferences": "PCC",
+    "first_played": "1888",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/USC_Trojans_logo.svg/100px-USC_Trojans_logo.svg.png",
+    "location": [
+      {
+        "latitude": 34.0536909,
+        "longitude": -118.242766,
+        "formattedAddress": "Los Angeles, California, United States",
+        "country": "United States",
+        "city": "Los Angeles",
+        "state": "California",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "UTEP",
+    "nickname": "Miners",
+    "athletic_link": "https://en.wikipedia.org/wiki/UTEP_Miners_football",
+    "city": "El Paso",
+    "state": "Texas",
+    "enrollment": "25,100",
+    "conference": "C-USA",
+    "old_conferences": "BIAA, WAC",
+    "first_played": "1914",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/UTEP_Miners_wordmark.svg/250px-UTEP_Miners_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 31.7754152,
+        "longitude": -106.464634,
+        "formattedAddress": "El Paso, El Paso County, Texas, United States",
+        "country": "United States",
+        "city": "El Paso",
+        "state": "Texas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "UTSA",
+    "nickname": "Roadrunners",
+    "athletic_link": "https://en.wikipedia.org/wiki/UTSA_Roadrunners_football",
+    "city": "San Antonio",
+    "state": "Texas",
+    "enrollment": "30,700",
+    "conference": "C-USA",
+    "old_conferences": "WAC",
+    "first_played": "2011",
+    "joined_fbs": "2012",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/UTSA_Roadrunners_logo.svg/250px-UTSA_Roadrunners_logo.svg.png",
+    "location": [
+      {
+        "latitude": 29.4246002,
+        "longitude": -98.4951405,
+        "formattedAddress": "San Antonio, Bexar County, Texas, United States",
+        "country": "United States",
+        "city": "San Antonio",
+        "state": "Texas",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Utah",
+    "nickname": "Utes",
+    "athletic_link": "https://en.wikipedia.org/wiki/Utah_Utes_football",
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "enrollment": "33,000",
+    "conference": "Pac-12",
+    "old_conferences": "Colorado Football Association, RMAC, Mountain States, WAC, MW",
+    "first_played": "1892",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Utah_Utes_logo.svg/150px-Utah_Utes_logo.svg.png",
+    "location": [
+      {
+        "latitude": 40.7596198,
+        "longitude": -111.8867975,
+        "formattedAddress": "Salt Lake City, Salt Lake County, Utah, United States",
+        "country": "United States",
+        "city": "Salt Lake City",
+        "state": "Utah",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Utah State",
+    "nickname": "Aggies",
+    "athletic_link": "https://en.wikipedia.org/wiki/Utah_State_Aggies_football",
+    "city": "Logan",
+    "state": "Utah",
+    "enrollment": "29,400",
+    "conference": "Mountain West",
+    "old_conferences": "Colorado Football Association, RMAC, Mountain States, Big West, Independent, Sun Belt, WAC",
+    "first_played": "1892",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Utah_State_Aggies_logo.svg/150px-Utah_State_Aggies_logo.svg.png",
+    "location": [
+      {
+        "latitude": 41.7313447,
+        "longitude": -111.8348631,
+        "formattedAddress": "Logan, Cache County, Utah, 84321, United States",
+        "country": "United States",
+        "city": "Logan",
+        "state": "Utah",
+        "zipcode": "84321",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Vanderbilt",
+    "nickname": "Commodores",
+    "athletic_link": "https://en.wikipedia.org/wiki/Vanderbilt_Commodores_football",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "enrollment": "13,100",
+    "conference": "SEC",
+    "old_conferences": "SIAA, SoCon",
+    "first_played": "1890",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vanderbilt_Commodores_logo.svg/150px-Vanderbilt_Commodores_logo.svg.png",
+    "location": [
+      {
+        "latitude": 36.1622767,
+        "longitude": -86.7742984,
+        "formattedAddress": "Nashville-Davidson, Davidson County, Tennessee, United States",
+        "country": "United States",
+        "city": "Nashville-Davidson",
+        "state": "Tennessee",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 36.1725564,
+        "longitude": -86.7597205,
+        "formattedAddress": "East Nashville, Nashville-Davidson, Davidson County, Tennessee, 37213, United States",
+        "country": "United States",
+        "city": "Nashville-Davidson",
+        "state": "Tennessee",
+        "zipcode": "37213",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 36.1826252,
+        "longitude": -86.8106045,
+        "formattedAddress": "North Nashville, Nashville-Davidson, Davidson County, Tennessee, 37208, United States",
+        "country": "United States",
+        "city": "Nashville-Davidson",
+        "state": "Tennessee",
+        "zipcode": "37208",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 36.158946,
+        "longitude": -86.8463888,
+        "formattedAddress": "West Nashville, Nashville-Davidson, Davidson County, Tennessee, 37209, United States",
+        "country": "United States",
+        "city": "Nashville-Davidson",
+        "state": "Tennessee",
+        "zipcode": "37209",
+        "countryCode": "US",
+        "neighbourhood": "West Nashville",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 36.17712455,
+        "longitude": -86.78936303230881,
+        "formattedAddress": "Germantown Nashville, TN, Nashville-Davidson, Davidson County, Tennessee, United States",
+        "country": "United States",
+        "city": "Nashville-Davidson",
+        "state": "Tennessee",
+        "countryCode": "US",
+        "neighbourhood": "Germantown Nashville, TN",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 36.1263567,
+        "longitude": -86.77757662155605,
+        "formattedAddress": "Melrose/Waverly Nashville TN, Berry Hill, Davidson County, Tennessee, United States",
+        "country": "United States",
+        "city": "Berry Hill",
+        "state": "Tennessee",
+        "countryCode": "US",
+        "neighbourhood": "Melrose/Waverly Nashville TN",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Virginia",
+    "nickname": "Cavaliers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Virginia_Cavaliers_football",
+    "city": "Charlottesville",
+    "state": "Virginia",
+    "enrollment": "24,400",
+    "conference": "ACC",
+    "old_conferences": "SAIAA, SoCon",
+    "first_played": "1888",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/U_of_Virginia_text_logo.svg/125px-U_of_Virginia_text_logo.svg.png",
+    "location": [
+      {
+        "latitude": 38.029306,
+        "longitude": -78.4766781,
+        "formattedAddress": "Charlottesville, Virginia, United States",
+        "country": "United States",
+        "city": "Charlottesville",
+        "state": "Virginia",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Virginia Tech",
+    "nickname": "Hokies",
+    "athletic_link": "https://en.wikipedia.org/wiki/Virginia_Tech_Hokies_football",
+    "city": "Blacksburg",
+    "state": "Virginia",
+    "enrollment": "33,400",
+    "conference": "ACC",
+    "old_conferences": "SAIAA, SIAA, SoCon, Big East",
+    "first_played": "1892",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Virginia_Tech_Hokies_logo.svg/200px-Virginia_Tech_Hokies_logo.svg.png",
+    "location": [
+      {
+        "latitude": 37.2296566,
+        "longitude": -80.4136767,
+        "formattedAddress": "Blacksburg, Montgomery County, Virginia, United States",
+        "country": "United States",
+        "city": "Blacksburg",
+        "state": "Virginia",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 37.8187439,
+        "longitude": -79.3192012,
+        "formattedAddress": "Blacksburg, Rockbridge County, Virginia, United States",
+        "country": "United States",
+        "city": "Blacksburg",
+        "state": "Virginia",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      },
+      {
+        "latitude": 36.7542798,
+        "longitude": -81.820401,
+        "formattedAddress": "Blacksburg, Washington County, Virginia, 24327, United States",
+        "country": "United States",
+        "city": "Blacksburg",
+        "state": "Virginia",
+        "zipcode": "24327",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Wake Forest",
+    "nickname": "Demon Deacons",
+    "athletic_link": "https://en.wikipedia.org/wiki/Wake_Forest_Demon_Deacons_football",
+    "city": "Winston-Salem",
+    "state": "North Carolina",
+    "enrollment": "8,100",
+    "conference": "ACC",
+    "old_conferences": "Big Five Conference, SoCon",
+    "first_played": "1888",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Wake_Forest_University_Athletic_logo.svg/150px-Wake_Forest_University_Athletic_logo.svg.png",
+    "location": [
+      {
+        "latitude": 36.0998131,
+        "longitude": -80.2440518,
+        "formattedAddress": "Winston-Salem, Forsyth County, North Carolina, United States",
+        "country": "United States",
+        "city": "Winston-Salem",
+        "state": "North Carolina",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Washington",
+    "nickname": "Huskies",
+    "athletic_link": "https://en.wikipedia.org/wiki/Washington_Huskies_football",
+    "city": "Seattle",
+    "state": "Washington",
+    "enrollment": "47,900",
+    "conference": "Pac-12",
+    "old_conferences": "PCC",
+    "first_played": "1889",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Washington_Huskies_logo.svg/175px-Washington_Huskies_logo.svg.png",
+    "location": [
+      {
+        "latitude": 47.6038321,
+        "longitude": -122.3300624,
+        "formattedAddress": "Seattle, King County, Washington, United States",
+        "country": "United States",
+        "city": "Seattle",
+        "state": "Washington",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Washington State",
+    "nickname": "Cougars",
+    "athletic_link": "https://en.wikipedia.org/wiki/Washington_State_Cougars_football",
+    "city": "Pullman",
+    "state": "Washington",
+    "enrollment": "30,600",
+    "conference": "Pac-12",
+    "old_conferences": "PCC, Independent",
+    "first_played": "1893",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Washington_State_Cougars_wordmark.svg/250px-Washington_State_Cougars_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 46.7304268,
+        "longitude": -117.173895,
+        "formattedAddress": "Pullman, Whitman County, Washington, United States",
+        "country": "United States",
+        "city": "Pullman",
+        "state": "Washington",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "West Virginia",
+    "nickname": "Mountaineers",
+    "athletic_link": "https://en.wikipedia.org/wiki/West_Virginia_Mountaineers_football",
+    "city": "Morgantown",
+    "state": "West Virginia",
+    "enrollment": "30,000",
+    "conference": "Big 12",
+    "old_conferences": "SoCon, WVIAC, Big East",
+    "first_played": "1891",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/West_Virginia_Mountaineers_logo.svg/150px-West_Virginia_Mountaineers_logo.svg.png",
+    "location": [
+      {
+        "latitude": 39.6296809,
+        "longitude": -79.9559437,
+        "formattedAddress": "Morgantown, Monongalia County, West Virginia, United States",
+        "country": "United States",
+        "city": "Morgantown",
+        "state": "West Virginia",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Western Kentucky",
+    "nickname": "Hilltoppers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Western_Kentucky_Hilltoppers_football",
+    "city": "Bowling Green",
+    "state": "Kentucky",
+    "enrollment": "20,300",
+    "conference": "C-USA",
+    "old_conferences": "SIAA, KIAC, OVC, MVFC, Sun Belt",
+    "first_played": "1913",
+    "joined_fbs": "2009",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Western_Kentucky_Hilltoppers_wordmark.svg/225px-Western_Kentucky_Hilltoppers_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 36.9903199,
+        "longitude": -86.4436018,
+        "formattedAddress": "Bowling Green, Warren County, Kentucky, 42101, United States",
+        "country": "United States",
+        "city": "Bowling Green",
+        "state": "Kentucky",
+        "zipcode": "42101",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Western Michigan",
+    "nickname": "Broncos",
+    "athletic_link": "https://en.wikipedia.org/wiki/Western_Michigan_Broncos_football",
+    "city": "Kalamazoo",
+    "state": "Michigan",
+    "enrollment": "22,900",
+    "conference": "MAC",
+    "old_conferences": "MCC",
+    "first_played": "1905",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Western_Michigan_Athletics_wordmark.svg/150px-Western_Michigan_Athletics_wordmark.svg.png",
+    "location": [
+      {
+        "latitude": 42.291707,
+        "longitude": -85.5872286,
+        "formattedAddress": "Kalamazoo, Kalamazoo County, Michigan, United States",
+        "country": "United States",
+        "city": "Kalamazoo",
+        "state": "Michigan",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Wisconsin",
+    "nickname": "Badgers",
+    "athletic_link": "https://en.wikipedia.org/wiki/Wisconsin_Badgers_football",
+    "city": "Madison",
+    "state": "Wisconsin",
+    "enrollment": "44,400",
+    "conference": "Big Ten",
+    "old_conferences": "",
+    "first_played": "1889",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wisconsin_Badgers_logo.svg/150px-Wisconsin_Badgers_logo.svg.png",
+    "location": [
+      {
+        "latitude": 43.074761,
+        "longitude": -89.3837613,
+        "formattedAddress": "Madison, Dane County, Wisconsin, 53703, United States",
+        "country": "United States",
+        "city": "Madison",
+        "state": "Wisconsin",
+        "zipcode": "53703",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  },
+  {
+    "team": "Wyoming",
+    "nickname": "Cowboys",
+    "athletic_link": "https://en.wikipedia.org/wiki/Wyoming_Cowboys_football",
+    "city": "Laramie",
+    "state": "Wyoming",
+    "enrollment": "12,400",
+    "conference": "Mountain West",
+    "old_conferences": "Colorado Football Association, RMAC, WAC",
+    "first_played": "1893",
+    "joined_fbs": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wyoming_Athletics_logo.svg/100px-Wyoming_Athletics_logo.svg.png",
+    "location": [
+      {
+        "latitude": 41.311367,
+        "longitude": -105.591101,
+        "formattedAddress": "Laramie, Albany County, Wyoming, United States",
+        "country": "United States",
+        "city": "Laramie",
+        "state": "Wyoming",
+        "countryCode": "US",
+        "neighbourhood": "",
+        "provider": "openstreetmap"
+      }
+    ]
+  }
+]

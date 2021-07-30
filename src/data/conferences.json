@@ -1,0 +1,13 @@
+[
+	{ "name": "SEC", "color": "#004b8d", "group": "Power Five" },
+	{ "name": "Pac-12", "color": "#004b91", "group": "Power Five" },
+	{ "name": "Big 12", "color": "#ef483e", "group": "Power Five" },
+	{ "name": "Big Ten", "color": "#0088ce", "group": "Power Five" },
+	{ "name": "ACC", "color": "#013ca6", "group": "Power Five" },
+	{ "name": "Independent", "color": "#000000", "group": "Independent" },
+	{ "name": "American", "color": "#041e41", "group": "Group of Five" },
+	{ "name": "C-USA", "color": "#a6192e", "group": "Group of Five" },
+	{ "name": "MAC", "color": "#00a160", "group": "Group of Five" },
+	{ "name": "Mountain West", "color": " #4f2d7f", "group": "Group of Five" },
+	{ "name": "Sun Belt", "color": "#f2a900", "group": "Group of Five" }
+]

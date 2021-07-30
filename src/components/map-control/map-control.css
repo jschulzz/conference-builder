@@ -1,0 +1,14 @@
+.map-container {
+	padding: 10%;
+	background-color: #fefefe;
+}
+
+.map {
+	box-shadow: inset 0 0 20px #00000044;
+	border-radius: 10px;
+	background-color: #eee;
+}
+
+.map-control {
+    display: flex
+}
